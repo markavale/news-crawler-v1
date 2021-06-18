@@ -36,7 +36,7 @@ class Source:
     # if not page:
     #   log.debug("Requests failed. Trying Selenium")
     #   seledriver = Seledriver()
-    #   browser = seledriver.browser
+    #   browser = seledriver.browser.
     #   browser.get(self.url)
     #   page = browser.page_source
 
